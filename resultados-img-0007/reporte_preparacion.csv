@@ -1,0 +1,11 @@
+Categoría,Archivo original,Lectura,Ancho original,Alto original,Ancho preparado,Alto preparado,Valor mínimo norm.,Valor máximo norm.,Evaluación
+gatos,gato1.jpg,OK,495,570,450,450,0.0,1.0,APROBADA
+gatos,gato2.jpg,OK,447,447,450,450,0.0,0.992,APROBADA
+gatos,gato3.jpg,OK,640,480,450,450,0.0,0.992,APROBADA
+gatos,gato4.png,OK,1200,630,450,450,0.0,1.0,APROBADA
+gatos,gato5.jpg,OK,1600,900,450,450,0.004,1.0,APROBADA
+perros,perro1.jpg,OK,900,652,450,450,0.0,0.992,APROBADA
+perros,perro2.jpg,OK,330,335,450,450,0.0,1.0,APROBADA
+perros,perro3.jpg,OK,640,480,450,450,0.0,1.0,APROBADA
+perros,perro4.jpg,OK,678,453,450,450,0.0,1.0,APROBADA
+perros,perro5.jpg,OK,554,554,450,450,0.0,1.0,APROBADA
